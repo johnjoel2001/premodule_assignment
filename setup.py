@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
 
+# Package set-up
+
 setup(
     name='filter_medals',
     version='0.1',
@@ -17,4 +19,3 @@ setup(
     python_requires='>=3.6',
 )
 
-# filter-medals medals_total.csv filtered_country.csv
