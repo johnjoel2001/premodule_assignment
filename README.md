@@ -32,5 +32,3 @@ STEPS TO INSTALL THE PACKAGE
 2)  To install the package, Run the oommand: pip install .
 3)  To use the package via the command line, run the command: filter-medals input_file.csv output_file.csv. In our case, the input file is medals_total.csv, and the output file can be named as desired. I'll name it filtered_countries.csv, so the command would be: filter-medals medals_total.csv filtered_countries.csv
 4)  To run the unit tests, run the command: python -m unittest discover
-
-
