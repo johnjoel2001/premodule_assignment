@@ -1,0 +1,2 @@
+[console_scripts]
+filter-medals = filter_medals:main

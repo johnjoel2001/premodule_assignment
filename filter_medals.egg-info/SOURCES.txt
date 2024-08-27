@@ -1,0 +1,9 @@
+LICENSE
+README.md
+filter_medals.py
+setup.py
+filter_medals.egg-info/PKG-INFO
+filter_medals.egg-info/SOURCES.txt
+filter_medals.egg-info/dependency_links.txt
+filter_medals.egg-info/entry_points.txt
+filter_medals.egg-info/top_level.txt
